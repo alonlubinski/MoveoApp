@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "320292519770",
+    "project_id": "moveoapp-ff55c",
+    "storage_bucket": "moveoapp-ff55c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320292519770:android:99b23c3de909c648f2fd63",
+        "android_client_info": {
+          "package_name": "com.alon.moveoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320292519770-qnva73loqrp1bik7j3e0kn3vj39jp5kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0x_TB6uZUjT_Cdu8ix45la2UA8gAVtOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320292519770-qnva73loqrp1bik7j3e0kn3vj39jp5kk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

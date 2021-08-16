@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MoveoApp</string>
+    <string name="remember_me_str">Remember Me</string>
+    <string name="login_str">Login</string>
+    <string name="sign_up_str">Sign Up</string>
+    <string name="email_str">Email</string>
+    <string name="password_str">Password</string>
+    <string name="first_name_str">First Name</string>
+    <string name="last_name_str">Last Name</string>
+    <string name="re_password_str">Re-enter Password</string>
+    <string name="patient_str">Patient</string>
+    <string name="doctor_str">Doctor</string>
+    <string name="valid_first_str">Please enter valid first name</string>
+    <string name="valid_last_str">Please enter valid last name</string>
+    <string name="valid_email_str">Please enter valid email address</string>
+    <string name="valid_password_str">Please enter valid password</string>
+    <string name="valid_match_str">Password doesn\'t match</string>
+    <string name="waiting_list_str">Waiting List</string>
+    <string name="doctors_list_str">Doctors List</string>
+    <string name="availability_str">Availability</string>
+    <string name="make_an_appointment_str">Make An Appointment</string>
+    <string name="cancel_appointment_str">Cancel Appointment</string>
+    <string name="moveo_str">Moveo</string>
+    <string name="welcome_str">Welcome</string>
+</resources>
